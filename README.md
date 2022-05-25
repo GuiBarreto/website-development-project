@@ -1,3 +1,2 @@
 website-development-project
-[Project](https://website-development-project.vercel.app/index.html
-)
+[Project](https://website-development-project.vercel.app/)
