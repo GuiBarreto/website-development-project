@@ -11,10 +11,9 @@ html {
   }
   main {
     display: block;
-    align-items: center;
     justify-content: center;
     flex-flow: column;
-    max-width: 600px;
+    max-width: 1000px;
     margin: 0 auto;
     padding: 10px;
     position: relative;
@@ -28,6 +27,12 @@ html {
     color: #FFFF;
     text-align: center;
   }
-  img {
+
+  #titulo {
     text-align: center;
   }
+
+  .img {
+    padding: 5px;
+  }
+  
